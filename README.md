@@ -1,4 +1,6 @@
-# Company comparable analysis
+# Company Comparables Analysis
+
+As the capstone project for our financial accounting class, this project compares accounting metrics and ratios across companies operating within the semiconductor industry.
 
 ## Part I
 
@@ -20,15 +22,13 @@ Comment on whether you expect these firms to revert to the mean over time (i.e.,
 
 1. For each of the firms in our sample, compute the following:
 
-  A. P /E Ratio
-
-  B. Return on Invested Capital
-
-  C. Economic Earnings Per Share
-
-  D. Free Cash Flow Yield
-
-  E. Price to Economic Book Value
+> <ol type="a">
+>   <li>P/E Ratio</li>
+>   <li>Return on Invested Capital</li>
+>   <li>Economic Earnings Per Share</li>
+>   <li>Free Cash Flow Yield</li>
+>   <li>Price to Economic Book Value</li>
+> </ol>
 
 2. Using only the P/E ratio, identify the most underpriced and overpriced security in your sample (for those with positive E).
 
